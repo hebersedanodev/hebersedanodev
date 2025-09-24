@@ -10,7 +10,7 @@
 </div>
 
 
-## 🎓 Soy estudiante de Ingeniería de Sistemas con un gran interés en el Desarrollo Web.
+## 🎓 Estudiante de Ingeniería de Sistemas con un gran interés en el Desarrollo Web.
   
 
 - 💻 Actualmente estoy aprendiendo y trabajando con tecnologías como JavaScript y React.
