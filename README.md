@@ -32,6 +32,16 @@
   </a>
 </p>
 
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block">Contactame</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord&perline=14" />
+  </a>
+</p>
 
 
 
