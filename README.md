@@ -39,7 +39,7 @@
 </div>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram&perline=14" />
+    <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram&perline=12" />
   </a>
 </p>
 
