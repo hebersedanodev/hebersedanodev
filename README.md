@@ -37,7 +37,7 @@
     <summary><h1 style="display: inline-block">Contactame</h2></summary>
   </ul>
 </div>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,linkedin,instagram&perline=14" />
   </a>
